@@ -12,5 +12,5 @@ header_pages:
   - participants.md
   - venue.md
 
-feed:
-  path: false
+plugins:
+  - jekyll-feed: false

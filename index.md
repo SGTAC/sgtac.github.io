@@ -2,9 +2,9 @@
 layout: home
 ---
 
-<span style="font-size: 2rem; font-weight: bold;">
-Structural Graph Theory Workshop <br>
-on the Adriatic Coast</span>
+<h1 style="text-align: right;">
+Structural Graph Theory Workshop <br> 
+on the Adriatic Coast</h1>
 
 **Dates:** August 24–28, 2026  
 **Venue:** InnoRenew CoE, Izola, Slovenia  
