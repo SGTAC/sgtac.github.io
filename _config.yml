@@ -1,13 +1,15 @@
-title: SGTAC 2026
-description: Structural Graph Theory Workshop on the Adriatic Coast
+title: Structural Graph Theory Workshop
+description: August 24–28, 2026, Izola, Slovenia
 url: "https://sgtac.github.io"
 baseurl: ""
 
-theme: minima
+# Using the remote theme enables the v3 dark mode features
+remote_theme: jekyll/minima
 minima:
-  skin: auto # Automatically switches to dark mode based on user's OS preference
+  skin: auto # Will now successfully switch based on the user's OS
 
 header_pages:
   - index.md
+  - programme.md
   - participants.md
   - venue.md

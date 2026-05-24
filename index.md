@@ -1,9 +1,6 @@
 ---
 layout: home
-title: Home
 ---
-
-# Structural Graph Theory Workshop on the Adriatic Coast (SGTAC 2026)
 
 **Dates:** August 24–28, 2026  
 **Venue:** InnoRenew CoE, Izola, Slovenia  
@@ -16,6 +13,8 @@ Following the spirit of focused mathematical workshops, the event is designed to
 
 ## Organizers
 
-* **Pascal Gollin** (University of Primorska)
-* **Matjaž Krnc** (University of Primorska)
-* **Martin Milanič** (University of Primorska)
+* **Martin Milanič** (Main Organizer)
+* **Pascal Gollin**
+* **Matjaž Krnc**
+
+*All organizers are affiliated with the University of Primorska.*
