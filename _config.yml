@@ -6,7 +6,11 @@ baseurl: ""
 remote_theme: jekyll/minima
 minima:
   skin: auto
-  header_pages:
-    - programme.md
-    - participants.md
-    - venue.md
+  
+header_pages:
+  - programme.md
+  - participants.md
+  - venue.md
+
+feed:
+  path: false
