@@ -8,7 +8,6 @@ minima:
   skin: auto
 
 header_pages:
-  - index.md
   - programme.md
   - participants.md
   - venue.md
