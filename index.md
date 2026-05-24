@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Structural Graph Theory Workshop on the Adriatic Coast
+nav_exclude: true
 ---
 
 **Dates:** August 24–28, 2026  
