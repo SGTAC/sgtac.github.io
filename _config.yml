@@ -1,0 +1,13 @@
+title: SGTAC 2026
+description: Structural Graph Theory Workshop on the Adriatic Coast
+url: "https://sgtac.github.io"
+baseurl: ""
+
+theme: minima
+minima:
+  skin: auto # Automatically switches to dark mode based on user's OS preference
+
+header_pages:
+  - index.md
+  - participants.md
+  - venue.md
