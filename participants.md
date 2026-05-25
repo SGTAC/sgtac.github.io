@@ -4,7 +4,7 @@ title: Participants
 permalink: /participants/
 ---
 
-Here is the list of confirmed participants:
+Current list of confirmed participants:
 
 * **Maria Chudnovsky**, Princeton University
 * **Jadwiga Czyżewska**, University of Warsaw
