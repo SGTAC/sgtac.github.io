@@ -4,9 +4,9 @@ title: Venue
 permalink: /venue/
 ---
 
-The workshop will be held at the premises of **InnoRenew CoE** in Izola, Slovenia. 
+The workshop will be held at the premises of the University of Primorska, at **InnoRenew CoE** in Izola, Slovenia. 
 
-Known for its sustainable, cutting-edge wooden architecture, the institute provides an inspiring academic setting right by the Mediterranean sea.
+Known for its sustainable, cutting-edge wooden architecture, the institute provides an inspiring academic setting right by the Adriatic sea.
 
 <div class="slider-container">
   <div class="slider">
