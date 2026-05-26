@@ -13,7 +13,7 @@ on the Adriatic Coast</h1>
 
 This 5-day workshop aims to foster collaborative discussions and explore various topics in structural graph theory. We intend this event to be small-scale, allowing for focused talks, open problem sessions, and ample time for research discussions among participants. 
 
-Following the spirit of focused mathematical workshops, the event is designed to foster new collaborations in a relaxed yet stimulating environment on the Mediterranean coast.
+Following the spirit of focused mathematical workshops, the event is designed to foster new collaborations in a relaxed yet stimulating environment on the Adriatic coast.
 
 ## Organizers
 
