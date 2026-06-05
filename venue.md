@@ -13,12 +13,15 @@ Known for its sustainable, cutting-edge wooden architecture, the institute provi
     <div class="slides" id="slides">
       <div class="slide">
         <img src="{{ '/assets/photo1.jpg' | relative_url }}" alt="InnoRenew Building Interior">
+        <p class="caption">InnoRenew CoE Interior (photo: Miran Kambič)</p>
       </div>
       <div class="slide">
         <img src="{{ '/assets/photo2.jpg' | relative_url }}" alt="InnoRenew Building Interior">
+        <p class="caption">InnoRenew CoE Exterior (photo: Miran Kambič)</p>
       </div>
       <div class="slide">
         <img src="{{ '/assets/photo3.jpg' | relative_url }}" alt="Izola Coastline">
+        <p class="caption">Izola (photo: Luka Kotnik, slovenia.info)</p>
       </div>
     </div>
   </div>
