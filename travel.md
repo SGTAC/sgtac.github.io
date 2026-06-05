@@ -21,7 +21,7 @@ permalink: /travel/
 * [Zagreb Airport](http://www.zagreb-airport.hr/en) (ZAG) – 2 hour 30-minute drive from Izola
 
 ### Shuttle Service
-The easiest way to travel to Izola from the airports listed above is to take a shuttle service like [GoOpti transport](https://www.goopti.com/en/transfers). Reservations for transfers can be made directly to your hotel. For optimal price we advise early booking (1-2 months).
+The easiest way to travel to Izola from the airports listed above is to take a shuttle service like [GoOpti transport](https://www.goopti.com/en/transfers). Reservations for transfers can be made directly to your hotel. For optimal price we advise early booking (1-2 months in advance).
 
 ### Bus or Train
 * **Bus:** Travel by [bus](https://www.ap-ljubljana.si/en/) to Izola is possible. Once in Izola, local [public transportation](https://arriva.si/) is available to move around the town.
