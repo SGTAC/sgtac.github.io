@@ -11,6 +11,7 @@ header_pages:
   - programme.md
   - participants.md
   - venue.md
+  - travel.md
 
 plugins:
   - jekyll-feed: false
