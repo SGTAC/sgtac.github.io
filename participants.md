@@ -12,7 +12,7 @@ Current list of confirmed participants:
 * **Pascal Gollin**, University of Primorska
 * **Janko Gravner**, University of California, Davis
 * **Claire Hilaire**, Université Clermont Auvergne
-* **Ekkehard Köhler**, Brandenburg University of Technology Cottbus–Senftenberg
+* **Ekkehard Köhler**, BTU Cottbus–Senftenberg
 * **Matjaž Krnc**, University of Primorska
 * **Martin Milanič**, University of Primorska
 * **Andrea Munaro**, University of Parma
