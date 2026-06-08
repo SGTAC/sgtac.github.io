@@ -8,7 +8,7 @@ permalink: /travel/
 * [San Simon Resort](https://www.sava-hotels-resorts.com/en/san-simon-resort-izola/accomodations/): Izola (multiple locations)
 * [Hotel Keltika](https://www.hotel-izola.si/en): Cesta v Jagodje 1, 6310 Izola
 * [Hotel Marina](https://hotelmarina.si/en/hotel-3/): Veliki trg 11, 6310 Izola
-* [Hotel Delfin](https://hotel-delfin.si/): Tomažičeva 10, 6310 Izola (note: the hotel is connected with Association of Pensioners' Associations of Slovenia)
+* [Hotel Delfin](https://hotel-delfin.si/): Tomažičeva 10, 6310 Izola (note: the hotel is connected with Slovenian Federation of Pensioners' Association)
 * [DeGrassi Boutique Garni Hotel](https://degrassihotel.si/en): Drevored 1. maja 9, 6310 Izola
 * [Hotel Belvedere (Cliff and Villa)](http://www.belvedere.si/en): Dobrava 1a, 6310 Izola (on top of a hill, 30-minute walk from workshop venue)
 
