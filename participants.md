@@ -7,6 +7,7 @@ permalink: /participants/
 Current list of confirmed participants:
 
 * **Maria Chudnovsky**, Princeton University
+* **Julien Codsi**, Princeton University
 * **Jadwiga Czyżewska**, University of Warsaw
 * **Clément Dallard**, University of Fribourg
 * **Pascal Gollin**, University of Primorska
