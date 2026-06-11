@@ -17,8 +17,8 @@ Following the spirit of focused mathematical workshops, the event is designed to
 
 ## Organizers
 
-* **Martin Milanič** (Main Organizer)
 * **Pascal Gollin**
 * **Matjaž Krnc**
+* **Martin Milanič**
 
 *All organizers are affiliated with the University of Primorska.*
