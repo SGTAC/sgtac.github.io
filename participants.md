@@ -19,5 +19,5 @@ Current list of confirmed participants:
 * **Andrea Munaro**, University of Parma
 * **Peter Muršič**, University of Primorska
 * **Laura Ogrin**, University of Primorska
-* **Đorđe Vasić**, University of Ljubljana (UL FMF)
+* **Đorđe Vasić**, University of Ljubljana 
 * **Viktor Zamaraev**, University of Liverpool
