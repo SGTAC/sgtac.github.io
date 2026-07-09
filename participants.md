@@ -21,5 +21,5 @@ Current list of confirmed participants:
 * **Peter Muršič**, University of Primorska
 * **Laura Ogrin**, University of Primorska
 * **Đorđe Vasić**, University of Ljubljana 
-* **Alexandra Wesolek**, CNRS, University of Bordeaux 
+* **Alexandra Wesolek**, CNRS & University of Bordeaux 
 * **Viktor Zamaraev**, University of Liverpool
