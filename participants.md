@@ -15,7 +15,7 @@ Current list of confirmed participants:
 * **Claire Hilaire**, Université Clermont Auvergne
 * **Jędrzej Hodor**, Jagiellonian University
 * **Ekkehard Köhler**, BTU Cottbus–Senftenberg
-* **Jemin Hwang**, Korea Advanced Institute of Science & Technology
+* **Jemin Hwang**, KAIST
 * **Matjaž Krnc**, University of Primorska
 * **Martin Milanič**, University of Primorska
 * **Andrea Munaro**, University of Parma
