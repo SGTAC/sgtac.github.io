@@ -14,6 +14,7 @@ Current list of confirmed participants:
 * **Janko Gravner**, University of California, Davis
 * **Claire Hilaire**, Université Clermont Auvergne
 * **Jędrzej Hodor**, Jagiellonian University
+* **Hidde Koerts**, University of Waterloo 
 * **Ekkehard Köhler**, BTU Cottbus–Senftenberg
 * **Jemin Hwang**, KAIST
 * **Matjaž Krnc**, University of Primorska
