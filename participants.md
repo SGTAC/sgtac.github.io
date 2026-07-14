@@ -16,7 +16,7 @@ Current list of confirmed participants:
 * **Jędrzej Hodor**, Jagiellonian University, Poland
 * **Hidde Koerts**, University of Waterloo, Canada
 * **Ekkehard Köhler**, BTU Cottbus–Senftenberg, Germany
-* **Jemin Hwang**, KAIST, Korea
+* **Jemin Hwang**, KAIST, South Korea
 * **Matjaž Krnc**, University of Primorska, Slovenia
 * **Martin Milanič**, University of Primorska, Slovenia
 * **Andrea Munaro**, University of Parma, Italy
