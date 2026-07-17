@@ -23,6 +23,7 @@ Current list of confirmed participants:
 * **Peter Muršič**, University of Primorska, Slovenia
 * **Laura Ogrin**, University of Primorska, Slovenia
 * **Robert Scheffler**, BTU Cottbus–Senftenberg, Germany
+* **Dmytro Tupkalenko**, University of Primorska, Slovenia
 * **Đorđe Vasić**, University of Ljubljana, Slovenia
 * **Jan Volec**, Czech Technical University in Prague, Czech Republic
 * **Alexandra Wesolek**, CNRS & University of Bordeaux, France 
