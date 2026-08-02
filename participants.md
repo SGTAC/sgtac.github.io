@@ -4,7 +4,7 @@ title: Participants
 permalink: /participants/
 ---
 
-Current list of confirmed participants:
+Confirmed participants:
 
 * **Maria Chudnovsky**, Princeton University, USA
 * **Julien Codsi**, Princeton University, USA
