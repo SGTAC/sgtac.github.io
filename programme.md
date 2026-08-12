@@ -17,7 +17,7 @@ permalink: /programme/
 
 
 
-=== Book of Abstracts ===
+### Book of Abstracts 
 
 TITLE: Set-defined graph classes and chi-boundedness (Viktor Zamaraev)
 
@@ -29,12 +29,21 @@ Second, for full set-defined graph classes, that is, classes containing all grap
 We discuss the implications of these results for the Gyárfás–Sumner conjecture, the Erdős–Hajnal problem on subgraphs of large girth and large chromatic number, and several related open problems.<br>
 Based on joint work with Sarosh Adenwalla, Samuel Braunfeld, Tomáš Hons, and John Sylvester.
 
-
+<br><br><br>
 
 TITLE: Bounding bandwidth (Maria Chudnovsky)
 
 ABSTRACT:
+
 Given an ordering of the vertices of a graph G, its bandwidth is the maximum distance (in the ordering) between two adjacent vertices of G. The bandwidth of G is the minimum bandwidth of an ordering of the  vertices of G.
 What graphs have small bandwidth? Several examples of families of trees of unbounded  bandwidth are known; and in 2014 Drego and Lokshtanov showed that every tree of high bandwidth contains as a subgraph a member of one of these families. In this talk we will extend this result to the class of all graphs, rather than just trees.
 The proofs are algorithmic, and consequently  we also get an  FPT approximation algorithm for bandwidth.<br>
 This is joint work with Daniel Lokshtanov and Eran Nevo.
+
+<br><br><br>
+
+TITLE: TBA (Ekkehard Köhler)
+
+ABSTRACT:
+
+TBA
