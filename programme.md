@@ -18,7 +18,7 @@ permalink: /programme/
 
 
 
-### Book of Abstracts 
+### Talk Abstracts 
 
 TITLE: Set-defined graph classes and chi-boundedness (Viktor Zamaraev)
 
