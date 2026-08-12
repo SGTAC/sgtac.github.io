@@ -4,16 +4,17 @@ title: Programme
 permalink: /programme/
 ---
 
-|                | Monday                | Tuesday                                                         | Wednesday                                      | Thursday                            | Friday         |
-|----------------|-----------------------|-----------------------------------------------------------------|------------------------------------------------|-------------------------------------|----------------|
-| Morning        | Open problem session  | Set-defined graph classes and chi-boundedness (Viktor Zamaraev) | Bounding bandwidth (Maria Chudnovsky)          | TBA (Ekkehard Köhler)               |                |
-|                | _Coffee Break_        | _Coffee Break_                                                  | _Coffee Break_                                 | _Coffee Break_                      | _Coffee Break_ |
-| Late morning   | Open problem session  | Work in groups                                                  | Work in groups                                 | Work in groups                      | Work in groups |
-|                | _Lunch Break_         | _Lunch Break_                                                   | _Lunch Break_                                  | _Lunch Break_                       | _Lunch Break_  |
-| Afternoon      | Work in groups        | Work in groups                                                  | Work in groups                                 | Work in groups                      | Work in groups |
-|                | _Coffee Break_        | _Coffee Break_                                                  | _Coffee Break_                                 | _Coffee Break_                      | _Coffee Break_ |
-| Late afternoon | Work in groups        | Work in groups                                                  | Work in groups                                 | Work in groups                      | Work in groups |
-| Evening        |                       |                                                                 |                                                | _Conference dinner_                 |                |
+|                | Monday                | Tuesday                                                         | Wednesday                                      | Thursday                            | Friday                |
+|----------------|-----------------------|-----------------------------------------------------------------|------------------------------------------------|-------------------------------------|-----------------------|
+| Morning        | Open problem session  | Set-defined graph classes and chi-boundedness (Viktor Zamaraev) | Bounding bandwidth (Maria Chudnovsky)          | TBA (Ekkehard Köhler)               | Work in groups        |
+|                |                       | Short progress report                                           | Short progress report                          | Short progress report               |                       |
+|                | _Coffee Break_        | _Coffee Break_                                                  | _Coffee Break_                                 | _Coffee Break_                      | _Coffee Break_        |
+| Late morning   | Open problem session  | Work in groups                                                  | Work in groups                                 | Work in groups                      | Work in groups        |
+|                | _Lunch Break_         | _Lunch Break_                                                   | _Lunch Break_                                  | _Lunch Break_                       | _Lunch Break_         |
+| Afternoon      | Work in groups        | Work in groups                                                  | Work in groups                                 | Work in groups                      | Work in groups        |
+|                | _Coffee Break_        | _Coffee Break_                                                  | _Coffee Break_                                 | _Coffee Break_                      | _Coffee Break_        |
+| Late afternoon | Work in groups        | Work in groups                                                  | Work in groups                                 | Work in groups                      | Final progress report |
+| Evening        |                       |                                                                 |                                                | _Conference dinner_                 |                       |
 
 
 
