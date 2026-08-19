@@ -13,9 +13,9 @@ permalink: /programme/
 | 11:00 - 12:30  | Open problem session  | Work in groups                                                  | Work in groups                                 | Work in groups                      | Work in groups        |
 | 12:30 - 13:30  | _Lunch Break_         | _Lunch Break_                                                   | _Lunch Break_                                  | _Lunch Break_                       | _Lunch Break_         |
 | 13:30 - 15:00  | Work in groups        | Work in groups                                                  | Work in groups                                 | Work in groups                      | Work in groups        |
-| 15:00 - 15:30  | _Coffee Break_        | _Coffee Break_                                                  | _Coffee Break_                                 | _Coffee Break_                      | _Coffee Break_        |
-| 15:30 - .....  | Work in groups        | Work in groups                                                  | Work in groups                                 | Work in groups                      | Final progress report |
-| 19:00 - .....  |                       |                                                                 |                                                | _Conference dinner_                 |                       |
+| 15:00 - 15:30  | _Coffee Break and Group Photo_        | _Coffee Break_                                                  | _Coffee Break_                                 | _Coffee Break_                      | _Coffee Break_        |
+| 15:30 - 17:00  | Work in groups        | Work in groups                                                  | Work in groups                                 | Work in groups                      | Final progress report |
+| 19:00          |                       |                                                                 |                                                | _Conference dinner_                 |                       |
 
 
 
