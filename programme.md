@@ -15,7 +15,7 @@ permalink: /programme/
 | 13:30 - 15:00  | Work in groups        | Work in groups                                                  | Work in groups                                 | Work in groups                      | Work in groups        |
 | 15:00 - 15:30  | _Coffee Break and Group Photo_        | _Coffee Break_                                                  | _Coffee Break_                                 | _Coffee Break_                      | _Coffee Break_        |
 | 15:30 - 17:00  | Work in groups        | Work in groups                                                  | Work in groups                                 | Work in groups                      | Final progress report |
-| 19:00          |                       |                                                                 |                                                | _Conference dinner_                 |                       |
+| 19:00 - ... |                       |                                                                 |                                                | _Conference dinner_                 |                       |
 
 
 
