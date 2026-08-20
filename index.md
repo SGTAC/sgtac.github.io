@@ -31,7 +31,7 @@ Following the spirit of focused mathematical workshops, the event is designed to
   <a href="https://famnit.upr.si" target="_blank">
     <picture>
       <source srcset="assets/FAMNIT-logo-bela.png" media="(prefers-color-scheme: dark)">
-      <img src="assets/FAMNIT-logo-crna.png" alt="FAMNIT Logo" style="max-height: 100px; width: auto;">
+      <img src="assets/FAMNIT-logo-crna.png" alt="FAMNIT Logo" style="max-height: 120px; width: auto;">
     </picture>
   </a>
 
@@ -39,7 +39,7 @@ Following the spirit of focused mathematical workshops, the event is designed to
   <a href="https://www.iam.upr.si/en" target="_blank">
     <picture>
       <source srcset="assets/IAM-logo-bela.png" media="(prefers-color-scheme: dark)">
-      <img src="assets/IAM-logo-crna.png" alt="IAM Logo" style="max-height: 100px; width: auto;">
+      <img src="assets/IAM-logo-crna.png" alt="IAM Logo" style="max-height: 120px; width: auto;">
     </picture>
   </a>
 
@@ -47,6 +47,6 @@ Following the spirit of focused mathematical workshops, the event is designed to
   <a href="https://www.sdams.si/en" target="_blank">
     <picture>
       <source srcset="assets/SDAMS_BC.png" media="(prefers-color-scheme: dark)">
-      <img src="assets/SDAMS_CB.png" alt="SDAMS Logo" style="max-height: 100px; width: auto;">
+      <img src="assets/SDAMS_CB.png" alt="SDAMS Logo" style="max-height: 120px; width: auto;">
     </picture>
   </a>
