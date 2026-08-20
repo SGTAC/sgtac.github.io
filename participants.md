@@ -11,7 +11,7 @@ Confirmed participants:
 * **Jadwiga Czyżewska**, University of Warsaw, Poland
 * **Clément Dallard**, University of Fribourg, Switzerland
 * **Pascal Gollin**, University of Primorska, Slovenia
-* **Janko Gravner**, University of California, Davis, USA and University of Primorska
+* **Janko Gravner**, University of California, Davis, USA and University of Primorska, Slovenia
 * **Claire Hilaire**, Université Clermont Auvergne, France
 * **Jędrzej Hodor**, Jagiellonian University, Poland
 * **Hidde Koerts**, University of Waterloo, Canada

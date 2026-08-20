@@ -107,4 +107,4 @@ Known for its sustainable, cutting-edge wooden architecture, the institute provi
 ***
 
 * 🌐 **Website:** [InnoRenew CoE](https://innorenew.eu/)
-* 📍 **Location:** [View on Google Maps](https://maps.app.goo.gl/gYHERJwVQPb1ByRy6)
+* 📍 **Location:** Livade 6a, 6310 Izola, Slovenia ([View on Google Maps](https://maps.app.goo.gl/gYHERJwVQPb1ByRy6))
