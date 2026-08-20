@@ -22,3 +22,31 @@ Following the spirit of focused mathematical workshops, the event is designed to
 * **Martin Milanič**
 
 *All organizers are affiliated with the University of Primorska.*
+
+## Organizing Institutions
+
+<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center; margin-top: 20px;">
+  
+  <!-- FAMNIT -->
+  <a href="https://famnit.upr.si" target="_blank">
+    <picture>
+      <source srcset="assets/FAMNIT-logo-bela.png" media="(prefers-color-scheme: dark)">
+      <img src="assets/FAMNIT-logo-crna.png" alt="FAMNIT Logo" style="max-height: 100px; width: auto;">
+    </picture>
+  </a>
+
+  <!-- IAM -->
+  <a href="https://www.iam.upr.si/en" target="_blank">
+    <picture>
+      <source srcset="assets/IAM-logo-bela.png" media="(prefers-color-scheme: dark)">
+      <img src="assets/IAM-logo-crna.png" alt="IAM Logo" style="max-height: 100px; width: auto;">
+    </picture>
+  </a>
+
+  <!-- SDAMS -->
+  <a href="https://www.sdams.si/en" target="_blank">
+    <picture>
+      <source srcset="assets/SDAMS_BČ.png" media="(prefers-color-scheme: dark)">
+      <img src="assets/SDAMS_ČB.png" alt="SDAMS Logo" style="max-height: 100px; width: auto;">
+    </picture>
+  </a>
