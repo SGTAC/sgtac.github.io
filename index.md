@@ -35,18 +35,19 @@ Following the spirit of focused mathematical workshops, the event is designed to
     </picture>
   </a>
 
-  <!-- IAM -->
-  <a href="https://www.iam.upr.si/en" target="_blank">
-    <picture>
-      <source srcset="assets/IAM-logo-bela.png" media="(prefers-color-scheme: dark)">
-      <img src="assets/IAM-logo-crna.png" alt="IAM Logo" style="max-height: 120px; width: auto;">
-    </picture>
-  </a>
-
-  <!-- SDAMS -->
+<!-- SDAMS -->
   <a href="https://www.sdams.si/en" target="_blank">
     <picture>
       <source srcset="assets/SDAMS_BC.png" media="(prefers-color-scheme: dark)">
       <img src="assets/SDAMS_CB.png" alt="SDAMS Logo" style="max-height: 120px; width: auto;">
     </picture>
   </a>
+
+  <!-- IAM -->
+  <a href="https://innorenew.eu/" target="_blank">
+    <picture>
+      <source srcset="assets/3-logo-RGB-WHITE-03.png" media="(prefers-color-scheme: dark)">
+      <img src="assets/2-logo-RGB-BLACK-02.png" alt="IAM Innorenew Logo" style="max-height: 120px; width: auto;">
+    </picture>
+  </a>
+
