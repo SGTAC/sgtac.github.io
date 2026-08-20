@@ -46,7 +46,7 @@ Following the spirit of focused mathematical workshops, the event is designed to
   <!-- SDAMS -->
   <a href="https://www.sdams.si/en" target="_blank">
     <picture>
-      <source srcset="assets/SDAMS_BČ.png" media="(prefers-color-scheme: dark)">
-      <img src="assets/SDAMS_ČB.png" alt="SDAMS Logo" style="max-height: 100px; width: auto;">
+      <source srcset="assets/SDAMS_BC.png" media="(prefers-color-scheme: dark)">
+      <img src="assets/SDAMS_CB.png" alt="SDAMS Logo" style="max-height: 100px; width: auto;">
     </picture>
   </a>
