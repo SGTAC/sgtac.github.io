@@ -6,10 +6,8 @@ permalink: /programme/
 
 |                | Monday                | Tuesday                                                         | Wednesday                                      | Thursday                            | Friday                |
 |----------------|-----------------------|-----------------------------------------------------------------|------------------------------------------------|-------------------------------------|-----------------------|
-|  9:00 -  9:30  | Arrival               | Set-defined graph classes and chi-boundedness (Viktor Zamaraev) | Bounding bandwidth (Maria Chudnovsky)          | Graph Searches - Structure and Algorithms
- (Ekkehard Köhler)               | Work in groups        |
-|  9:30 - 10:00  | Open problem session  | Set-defined graph classes and chi-boundedness (Viktor Zamaraev) | Bounding bandwidth (Maria Chudnovsky)          | Graph Searches - Structure and Algorithms
- (Ekkehard Köhler)               | Work in groups        |
+|  9:00 -  9:30  | Arrival               | Set-defined graph classes and chi-boundedness (Viktor Zamaraev) | Bounding bandwidth (Maria Chudnovsky)          | Graph Searches - Structure and Algorithms (Ekkehard Köhler)               | Work in groups        |
+|  9:30 - 10:00  | Open problem session  | Set-defined graph classes and chi-boundedness (Viktor Zamaraev) | Bounding bandwidth (Maria Chudnovsky)          | Graph Searches - Structure and Algorithms (Ekkehard Köhler)               | Work in groups        |
 | 10:00 - 10:30  | Open problem session  | Short progress report                                           | Short progress report                          | Short progress report               | Work in groups        |
 | 10:30 - 11:00  | _Coffee Break_        | _Coffee Break_                                                  | _Coffee Break_                                 | _Coffee Break_                      | _Coffee Break_        |
 | 11:00 - 12:30  | Open problem session  | Work in groups                                                  | Work in groups                                 | Work in groups                      | Work in groups        |
