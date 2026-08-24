@@ -19,9 +19,9 @@ permalink: /programme/
 
 
 
-### Talk Abstracts 
+## Talk Abstracts 
 
-TITLE: Set-defined graph classes and chi-boundedness (Viktor Zamaraev)
+TITLE: **Set-defined graph classes and chi-boundedness** (_Viktor Zamaraev_)
 
 ABSTRACT:
 
@@ -33,7 +33,7 @@ Based on joint work with Sarosh Adenwalla, Samuel Braunfeld, Tomáš Hons, and J
 
 <br><br><br>
 
-TITLE: Bounding bandwidth (Maria Chudnovsky)
+TITLE: **Bounding bandwidth** (_Maria Chudnovsky_)
 
 ABSTRACT:
 
@@ -44,7 +44,7 @@ This is joint work with Daniel Lokshtanov and Eran Nevo.
 
 <br><br><br>
 
-TITLE: Graph Searches - Structure and Algorithms (Ekkehard Köhler)
+TITLE: **Graph Searches - Structure and Algorithms** (_Ekkehard Köhler_)
 
 ABSTRACT:
 
