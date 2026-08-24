@@ -6,8 +6,10 @@ permalink: /programme/
 
 |                | Monday                | Tuesday                                                         | Wednesday                                      | Thursday                            | Friday                |
 |----------------|-----------------------|-----------------------------------------------------------------|------------------------------------------------|-------------------------------------|-----------------------|
-|  9:00 -  9:30  | Arrival               | Set-defined graph classes and chi-boundedness (Viktor Zamaraev) | Bounding bandwidth (Maria Chudnovsky)          | TBA (Ekkehard Köhler)               | Work in groups        |
-|  9:30 - 10:00  | Open problem session  | Set-defined graph classes and chi-boundedness (Viktor Zamaraev) | Bounding bandwidth (Maria Chudnovsky)          | TBA (Ekkehard Köhler)               | Work in groups        |
+|  9:00 -  9:30  | Arrival               | Set-defined graph classes and chi-boundedness (Viktor Zamaraev) | Bounding bandwidth (Maria Chudnovsky)          | Graph Searches - Structure and Algorithms
+ (Ekkehard Köhler)               | Work in groups        |
+|  9:30 - 10:00  | Open problem session  | Set-defined graph classes and chi-boundedness (Viktor Zamaraev) | Bounding bandwidth (Maria Chudnovsky)          | Graph Searches - Structure and Algorithms
+ (Ekkehard Köhler)               | Work in groups        |
 | 10:00 - 10:30  | Open problem session  | Short progress report                                           | Short progress report                          | Short progress report               | Work in groups        |
 | 10:30 - 11:00  | _Coffee Break_        | _Coffee Break_                                                  | _Coffee Break_                                 | _Coffee Break_                      | _Coffee Break_        |
 | 11:00 - 12:30  | Open problem session  | Work in groups                                                  | Work in groups                                 | Work in groups                      | Work in groups        |
@@ -44,8 +46,18 @@ This is joint work with Daniel Lokshtanov and Eran Nevo.
 
 <br><br><br>
 
-TITLE: TBA (Ekkehard Köhler)
+TITLE: Graph Searches - Structure and Algorithms (Ekkehard Köhler)
 
 ABSTRACT:
 
-TBA
+Graph searches are the most basic algorithmic tools in graph theory.
+Everybody knows and uses breadth-first search (BFS) or depth-first
+search (DFS) for various applications and proofs.  In spite of the
+frequent use of graph searches many of their structural properties are
+more complicated than it seems at first sight.
+
+In this talk we consider various graph search algorithms and review
+different structural and algorithmic results on these searches.  In
+particular, we discuss the end-vertex problem for different searches and
+fast implementations of lexicographic depth-first search (LexDFS).
+
