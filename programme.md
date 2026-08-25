@@ -15,7 +15,7 @@ permalink: /programme/
 | 13:30 - 15:00  | Work in groups        | Work in groups                                                  | Work in groups                                 | Work in groups                      | Work in groups        |
 | 15:00 - 15:30  | _Coffee Break and Group Photo_        | _Coffee Break_                                                  | _Coffee Break_                                 | _Coffee Break_                      | _Coffee Break_        |
 | 15:30 - 17:00  | Work in groups        | Work in groups                                                  | Work in groups                                 | Work in groups                      | Final progress report |
-| 19:00 - ... |                       |                                                                 |                                                | _Conference dinner_                 |                       |
+| 19:00 - ... |                       |                                                                 |                                                | _Conference dinner_ at [Restavracija Kamin](https://www.google.com/maps/place/Restavracija+Kamin/@45.5309816,13.6315464,644m/data=!3m2!1e3!4b1!4m6!3m5!1s0x477b65adc6cb7101:0xfa96287f2d1996ef!8m2!3d45.5309779!4d13.6341213!16s%2Fg%2F11gk0g1lgp?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D)                |                       |
 
 
 
