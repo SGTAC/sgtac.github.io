@@ -28,3 +28,9 @@ Confirmed participants:
 * **Jan Volec**, Czech Technical University in Prague, Czech Republic
 * **Alexandra Wesolek**, CNRS & University of Bordeaux, France 
 * **Viktor Zamaraev**, University of Liverpool, UK
+
+### Picture proofs
+
+![sgtac landscape](/assets/sgtac-rainbow.jpg)
+
+![sgtac portrait](/assets/sgtac-stairs.jpg)
