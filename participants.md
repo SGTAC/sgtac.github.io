@@ -29,7 +29,7 @@ Confirmed participants:
 * **Alexandra Wesolek**, CNRS & University of Bordeaux, France 
 * **Viktor Zamaraev**, University of Liverpool, UK
 
-### Picture proofs
+### Picture proof
 
 ![sgtac portrait](/assets/sgtac-stairs.jpg)
 ![sgtac landscape-1](/assets/sgtac-rainbow-1.jpg)
