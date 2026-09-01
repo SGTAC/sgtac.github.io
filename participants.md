@@ -31,6 +31,6 @@ Confirmed participants:
 
 ### Picture proofs
 
-![sgtac landscape](/assets/sgtac-rainbow.jpg)
-
 ![sgtac portrait](/assets/sgtac-stairs.jpg)
+
+![sgtac landscape](/assets/sgtac-rainbow.jpg)
